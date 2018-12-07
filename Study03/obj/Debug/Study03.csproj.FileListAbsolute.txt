@@ -1,0 +1,7 @@
+D:\이은아\StudyConsoleApp\Study03\bin\Debug\Study03.exe.config
+D:\이은아\StudyConsoleApp\Study03\bin\Debug\Study03.exe
+D:\이은아\StudyConsoleApp\Study03\bin\Debug\Study03.pdb
+D:\이은아\StudyConsoleApp\Study03\obj\Debug\Study03.csprojAssemblyReference.cache
+D:\이은아\StudyConsoleApp\Study03\obj\Debug\Study03.csproj.CoreCompileInputs.cache
+D:\이은아\StudyConsoleApp\Study03\obj\Debug\Study03.exe
+D:\이은아\StudyConsoleApp\Study03\obj\Debug\Study03.pdb
